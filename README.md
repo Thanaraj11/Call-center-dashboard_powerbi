@@ -89,3 +89,29 @@ These slicers allow users to dynamically drill down into specific insights.
 ├── 📄 README.md
 ├── 📁 assets
 │   └── dashboard.png
+
+
+## 👤 Author
+
+**Thanuraj**  
+🎓 *Bachelor of Science (Honours) in Software Engineering*  
+🏫 *University of Kelaniya, Sri Lanka*
+
+---
+
+### 💡 Areas of Interest
+- 📊 Data Analytics & Business Intelligence  
+- 📈 Power BI & Excel  
+ 
+
+---
+
+### 🤝 Connect With Me
+- 🐙 **GitHub:** https://github.com/Thanaraj/11  
+- 📧 **Email:** thanaraj.professional@gmail.com 
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/thanuraj2003/)  
+
+---
+
+> I am a Software Engineering undergraduate with a strong interest in data-driven decision making.  
+> This project reflects my skills in **Power BI, data analysis, and visualization**, and is part of my continuous learning journey.
