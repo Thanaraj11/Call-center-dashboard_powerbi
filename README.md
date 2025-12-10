@@ -79,18 +79,6 @@ These slicers allow users to dynamically drill down into specific insights.
 - **Map & Chart Visuals**
 
 ---
-
-## 📂 Project Structure
-
-```text
-📁 Call-Center-Dashboard
-│
-├── 📄 Call_Center_Dashboard.pbix
-├── 📄 README.md
-├── 📁 assets
-│   └── dashboard.png
-
-
 ##---->>> 
 ## 👤 Author
 
@@ -116,3 +104,15 @@ These slicers allow users to dynamically drill down into specific insights.
 
 > I am a Software Engineering undergraduate with a strong interest in data-driven decision making.  
 > This project reflects my skills in **Power BI, data analysis, and visualization**, and is part of my continuous learning journey.
+
+## 📂 Project Structure
+
+```text
+📁 Call-Center-Dashboard
+│
+├── 📄 Call_Center_Dashboard.pbix
+├── 📄 README.md
+├── 📁 assets
+│   └── dashboard.png
+
+
